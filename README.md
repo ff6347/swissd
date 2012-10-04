@@ -5,7 +5,7 @@ i like pink ponys and this is meh: [natael](https://github.com/natael).
 
 swissd.jsx  
 ---
-![TEASER IMAGE]()  
+![TEASER IMAGE](swissd.png)  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
