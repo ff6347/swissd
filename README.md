@@ -1,11 +1,11 @@
-![natael](https://secure.gravatar.com/avatar/426e164c2d35bd206681805106ebe2df?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png)
+![natael](https://secure.gravatar.com/avatar/426e164c2d35bd206681805106ebe2df?s=100&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-100.png)
 Hello  
 =====
 i like pink ponys and this is meh: [natael](https://github.com/natael).
 
 swissd.jsx  
 ---
-![TEASER IMAGE](swissd.png)  
+![TEASER IMAGE](https://raw.github.com/natael/swissd/master/swissd.png)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
