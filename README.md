@@ -4,7 +4,8 @@ i like pink ponys and this is meh: [natael](https://github.com/natael).
 
 swissd.jsx  
 ---
-![TEASER IMAGE](https://raw.github.com/natael/swissd/master/swissd.png)
+![TEASER IMAGE](https://raw.github.com/natael/swissd/master/alien.png)
+![TEASER IMAGE](https://raw.github.com/natael/swissd/master/king.png)
 
 first version can generate a width-fixed typo from an array of words.
 several customizations are possible:
