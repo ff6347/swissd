@@ -6,8 +6,11 @@ swissd.jsx
 ---
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/swissd.png)
 
-- first draft, need to refactor and compress the code
-- make it more modular
+first version can generate a width-fixed typo from an array of words.
+several customizations are possible:
+- add a shadow
+- shear it
+- rotate it
 
 [https://github.com/natael/swissd](https://github.com/natael/swissd)
 
