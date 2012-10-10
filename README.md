@@ -4,18 +4,20 @@ i like pink ponys and this is meh: [natael](https://github.com/natael).
 
 swissd.jsx
 ---
-![TEASER IMAGE](https://raw.github.com/natael/swissd/master/iver.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/whisky.jpg)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/ocean.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/alien.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/king.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/yoda.png)
 
-first version can generate a width-fixed typo from an array of words.
+with swissd you can generate a width-fixed typo from an array of words.
 several customizations are possible:
 - add a shadow
-- shear it
-- rotate it
+- add shear
+- add a rotation
+- improve the contrast of the biggest words
+- add a vignette (gradient with transparency)
+- add a perspective (3D)
 
 [https://github.com/natael/swissd](https://github.com/natael/swissd)
 
