@@ -4,6 +4,7 @@ i like pink ponys and this is meh: [natael](https://github.com/natael).
 
 swissd.jsx
 ---
+![TEASER IMAGE](https://raw.github.com/natael/swissd/master/iver.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/whisky.jpg)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/ocean.png)
 ![TEASER IMAGE](https://raw.github.com/natael/swissd/master/alien.png)
